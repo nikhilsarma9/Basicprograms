@@ -1,5 +1,4 @@
-
-public class test
+class test
 {
 	int add()
 	{
